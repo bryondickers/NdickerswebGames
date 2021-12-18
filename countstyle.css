@@ -1,0 +1,16 @@
+.maindiv{
+    display: block;
+    width: 75%;
+    margin: 0 auto;
+}
+.inne{
+    text-align: center;
+    padding: 5px;
+    justify-content: space-around;
+}
+.inne span{
+    font-size: 5em;
+}
+button{
+    margin-left: 10px;
+}
